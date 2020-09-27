@@ -1,0 +1,3 @@
+module GraphicalModelInterface
+
+end # module
